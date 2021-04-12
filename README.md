@@ -8,14 +8,7 @@
 
 import random
 
-#generate UNO deck of 108cards
-# The deck consists of 108 cards: four each of "Wild" and "Wild Draw Four,"
-# and 25 each of four different colors (red, yellow, green, blue).
-# Each color consists of one zero, two each of 1 through 9, and two each of
-# "Skip," "Draw Two," and "Reverse." 
-# These last three types are known as "action cards."
-#if __name__ == "__main__":
-#main()
+
 
 
 def buildDeck ():
