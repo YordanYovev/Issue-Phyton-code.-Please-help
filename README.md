@@ -4,7 +4,7 @@ I try to make Uno card game. My code look ok, but it doesnt work as I want. Prob
 
 
 
-#                                                                                                              code:
+#                                                                                                                                  code:
 
 import random
 
